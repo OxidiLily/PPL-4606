@@ -1,4 +1,4 @@
 # PPL-4606
-This is for repo PPL4606's homework
+repo PPL4606's
 
 Name : Tekad Agung Nugroho
